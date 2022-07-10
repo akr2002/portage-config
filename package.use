@@ -31,3 +31,5 @@ net-misc/aria2 bittorrent
 # required by kde-apps/kamoso-21.12.3::gentoo
 # required by kde-apps/kamoso (argument)
 >=media-libs/gst-plugins-base-1.20.2 theora
+
+sys-process/htop hwloc
